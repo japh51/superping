@@ -1,0 +1,2 @@
+# superping
+Lan discovery script

@@ -1,2 +1,2 @@
 # superping
-Lan discovery script
+Simple lan discovery script
